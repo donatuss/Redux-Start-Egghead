@@ -1,5 +1,4 @@
-##Podstawowe  Zasady Redux
-
+## Podstawowe  Zasady Redux
 <sub>[<< Cofnij](https://github.com/donatuss/Redux-Start-Egghead/blob/master/README.md)</sub><br/>
 
 ## Pierwsza zasada Redux
