@@ -123,6 +123,6 @@ store.subscribe(logger)();
  ```
  <br/>
  
- <sub>[<< Poprzedni]((https://github.com/donatuss/Redux-Start-Egghead/blob/master/01-redux-principles/README.md))
+ <sub>[<< Poprzedni](https://github.com/donatuss/Redux-Start-Egghead/blob/master/01-redux-principles/README.md)
   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/README.md)
  </sub>
