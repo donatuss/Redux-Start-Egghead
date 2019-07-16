@@ -1,10 +1,7 @@
 ## React i Redux na przykładzie aplikacji Counter 
 <sub>[<< Cofnij](https://github.com/donatuss/Redux-Start-Egghead/blob/master/README.md)</sub><br/>
 
-Poniżej prosty przykład aplikacji używającej React i Redux
-
-#### Przykład 1 - Prosty Redux store
-
+Poniżej prosty przykład aplikacji używającej React i Redux.
 
 ```javascript
 import React, {Component} from 'react';
