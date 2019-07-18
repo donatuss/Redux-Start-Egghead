@@ -1,7 +1,7 @@
 ## Immutable - zapewnienie niezmienności _state_, _pure function_, unikanie mutacji tablic i obiektów  
 <sub>[<< Cofnij](https://github.com/donatuss/Redux-Start-Egghead/blob/master/README.md)</sub><br/>
 
-Redux state - stan aplikacji musi być niezmienny - immutable. Oznacza to, iż realizowana w funkcji reducer, każdorazowa jego zmiana,   
+Redux state - stan aplikacji musi być niezmienny - immutable. Oznacza to, iż realizowana w funkcji reducer, każdorazowa jego zmiana,
 nie jest dokonywana poprzez modyfikacją istniejącego stanu, a poprzez wygenerowanie nowego na bazie istniejącego.
 Z tego powodu funkcje reducer muszą być tzw. funkcjami czystymi - _pure function_. Funkcje czyste
 + zwracają wartości bazując jedynie na swoich argumentach
