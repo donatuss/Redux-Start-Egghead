@@ -69,5 +69,5 @@ class Counter extends Component {
  <br/>
  
  <sub>[<< Poprzedni](https://github.com/donatuss/Redux-Start-Egghead/blob/master/02-store-basics/README.md)
-  | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/README.md)
+  | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/04-immutable/README.md)
  </sub>
