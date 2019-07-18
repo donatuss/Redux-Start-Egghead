@@ -6,10 +6,10 @@ nie jest dokonywana poprzez modyfikacją istniejącego stanu, a poprzez wygenero
 Z tego powodu funkcje reducer muszą być tzw. funkcjami czystymi - _pure function_. 
 
 Funkcje czyste:
-+ zwracają wartości bazując jedynie na swoich argumentach
++ zwracają wartości bazując jedynie na swoich argumentach.
 + nie powodują wywołania instrukcji generujących uboczne efekty np. aktualizacja w bazie danych, wywołanie usługi sieciowej. 
 To ma być przewidywalna funkcją która zawsze przy takich samych warunkach wejściowych wygeneruje te same zwroty.
-+ nie modyfikuje swoich argumentów wejścowych.  
++ nie modyfikują swoich argumentów wejściowych.  
 
 #### Przykład  - Funkcje pure i impure
 
