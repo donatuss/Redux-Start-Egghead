@@ -1,12 +1,12 @@
-## Immutable - zapewnienie niezmienności _state_, _pure function_, unikanie mutacji (tworzymy nowe, nie modyfikujemy) tablic i obiektów  
+## Immutable - zapewnienie niezmienności _state_, _pure function_, unikanie mutacji tablic i obiektów  
 <sub>[<< Cofnij](https://github.com/donatuss/Redux-Start-Egghead/blob/master/README.md)</sub><br/>
 
-Redux state - stan aplikacji musi być niezmienny - Immutable. Oznacza to, iż każdorazowa zmiana state realizowana w funkcji reducer 
-nie jest dokonywana poprzez modyfikacją istniejącego stanu, a poprzez wygenerowanie nowego obiektu state bazującego na poprzednim.
+Redux state - stan aplikacji musi być niezmienny - immutable. Oznacza to, iż realizowana w funkcji reducer, każdorazowa jego zmiana,   
+nie jest dokonywana poprzez modyfikacją istniejącego stanu, a poprzez wygenerowanie nowego na bazie istniejącego.
 Z tego powodu funkcje reducer muszą być tzw. funkcjami czystymi - _pure function_. Funkcje czyste
 + zwracają wartości bazując jedynie na swoich argumentach
-+ nie powodują wywołania instrukcji generujących uboczne efekty np. aktualizacja w bazie danych, wywołanie usługi sieciowej. To ma być przewidywalna 
-funkcją która zawsze przy takich samych warunkach wejściowych wygeneruje te same zwroty.
++ nie powodują wywołania instrukcji generujących uboczne efekty np. aktualizacja w bazie danych, wywołanie usługi sieciowej. 
+To ma być przewidywalna funkcją która zawsze przy takich samych warunkach wejściowych wygeneruje te same zwroty.
 + nie modyfikuje swoich argumentów wejścowych.  
 
 #### Przykład  - Funkcje pure i impure
