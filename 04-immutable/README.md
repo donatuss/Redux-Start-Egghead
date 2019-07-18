@@ -3,7 +3,9 @@
 
 Redux state - stan aplikacji musi być niezmienny - immutable. Oznacza to, iż realizowana w funkcji reducer, każdorazowa jego zmiana,
 nie jest dokonywana poprzez modyfikacją istniejącego stanu, a poprzez wygenerowanie nowego na bazie istniejącego.
-Z tego powodu funkcje reducer muszą być tzw. funkcjami czystymi - _pure function_. Funkcje czyste
+Z tego powodu funkcje reducer muszą być tzw. funkcjami czystymi - _pure function_. 
+
+Funkcje czyste:
 + zwracają wartości bazując jedynie na swoich argumentach
 + nie powodują wywołania instrukcji generujących uboczne efekty np. aktualizacja w bazie danych, wywołanie usługi sieciowej. 
 To ma być przewidywalna funkcją która zawsze przy takich samych warunkach wejściowych wygeneruje te same zwroty.
