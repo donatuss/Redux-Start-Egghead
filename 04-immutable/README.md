@@ -145,9 +145,9 @@ testEquality(toggleTodoDirect, todoBefore, todoAfter);  // -- Test FAIL
 testEquality(toggleTodoByGenNew, todoBefore, todoAfter);  // -- Test PASSED 
 testEquality(toggleTodoByGenNewAssign, todoBefore, todoAfter);  // -- Test PASSED 
 testEquality(toggleTodoByGenNewSpread, todoBefore, todoAfter);  // -- Test PASSED 
-```
+``` tree
 <br/>
  
  <sub>[<< Poprzedni](https://github.com/donatuss/Redux-Start-Egghead/blob/master/03-react-counter-example/README.md)
-  | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/03-react-counter-example/README.md)
+  | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/05-reducer-composition/README.md)
  </sub>
