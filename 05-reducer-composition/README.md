@@ -204,5 +204,5 @@ console.log(numbers.reduce(myFunc, 250)); // wynik 0 (250-175-50-25), 250 warto�
 <br/>
  
  <sub>[<< Poprzedni](https://github.com/donatuss/Redux-Start-Egghead/blob/master/04-immutable/README.md)
-  | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/06-todo-app-first-draft/README.md)
+  | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/06-todoapp-first-draft/README.md)
  </sub>
