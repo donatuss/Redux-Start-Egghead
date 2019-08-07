@@ -9,3 +9,4 @@ Tematy:
 * [06 Todos Aplikacja - Część 1 - Struktura, React, Redux Store, Semantic UI](https://github.com/donatuss/Redux-Start-Egghead/blob/master/06-todoapp-first-draft/README.md)
 * [07 Todos Aplikacja - Część 2 - Uzupełnienie reduktora o TOGGLE_TODO](https://github.com/donatuss/Redux-Start-Egghead/blob/master/07-todoapps-toggling-todo/README.md)
 * [08 Todos Aplikacja - Część 3 - Filtrowanie todos](https://github.com/donatuss/Redux-Start-Egghead/blob/master/08-todoapp-filtering-todos/README.md)
+* [09 Todos Aplikacja - Część 4 - Wyodrębnienie komponentów prezentacji](https://github.com/donatuss/Redux-Start-Egghead/blob/master/09-todoapp-extracting-presentional/README.md)
