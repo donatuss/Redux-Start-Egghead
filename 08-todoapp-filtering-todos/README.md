@@ -1,7 +1,7 @@
 ## 08 Todos Aplikacja - Część 3 - Filtrowanie todos. Uzupełnienie reduktora o visibilityFilter. Komponent FilterLink, uzupełnienie TodoApps 
 <sub>[<< Cofnij](https://github.com/donatuss/Redux-Start-Egghead/blob/master/README.md)</sub><br/>
 
-Część 2 aplikacji Todos - rozszerzamy reduktor o visibilityFilter 
+Część 3 aplikacji Todos - rozszerzamy reduktor o visibilityFilter 
 
 
 ```javascript
@@ -34,7 +34,9 @@ class FilterLink extends Component {
         const {store, filter, currentFilter} = this.props;
 
         if (filter === currentFilter) {
-            return <Button active size="small"><Icon name='checkmark'/>{this.props.children}<Icon /></Button>
+            return <Button active size="small">
+                        <Icon name='checkmark'/>{this.props.children}<Icon />
+                   </Button>
         }
 
         return (
@@ -93,11 +95,14 @@ class TodoApp extends Component {
                 <Container fluid>
                     <Grid centered columns={2}>
                         <Grid.Column>
-                            <FilterLink {...this.props} filter='SHOW_ALL' currentFilter={visibilityFilter}>All</FilterLink>
+                            <FilterLink {...this.props} filter='SHOW_ALL' 
+                                currentFilter={visibilityFilter}>All</FilterLink>
                             <span style={{width: '5px', display: 'inline-block'}}/>
-                            <FilterLink {...this.props} filter='SHOW_ACTIVE' currentFilter={visibilityFilter}>Active</FilterLink>
+                            <FilterLink {...this.props} filter='SHOW_ACTIVE' 
+                                currentFilter={visibilityFilter}>Active</FilterLink>
                             <span style={{width: '5px', display: 'inline-block'}}/>
-                            <FilterLink {...this.props} filter='SHOW_COMPLETED' currentFilter={visibilityFilter}>Competed</FilterLink>
+                            <FilterLink {...this.props} filter='SHOW_COMPLETED' 
+                                currentFilter={visibilityFilter}>Competed</FilterLink>
                         </Grid.Column>
                     </Grid>
                     ...
