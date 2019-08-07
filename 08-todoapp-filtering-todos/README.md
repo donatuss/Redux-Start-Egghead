@@ -112,7 +112,9 @@ class TodoApp extends Component {
                         <Grid.Column>
                             <Label.Group tag>
                                 {visibleTodos.map((x) =>
-                                    <Label as='a' onClick={() => this.onTodoClick(x.id)} style={{textDecoration: x.completed ? 'line-through' : 'none'}} key={x.id}>{x.text}</Label>
+                                    <Label as='a' onClick={() => this.onTodoClick(x.id)} 
+                                    style={{textDecoration: x.completed ? 'line-through' : 'none'}} 
+                                    key={x.id}>{x.text}</Label>
                                 )}
                             </Label.Group>
                         </Grid.Column>
