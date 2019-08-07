@@ -88,5 +88,5 @@ export default TodoApp;
  <br/>
  
  <sub>[<< Poprzedni](https://github.com/donatuss/Redux-Start-Egghead/blob/master/06-todoapp-first-draft/README.md)
-  | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/07-todoapps-toggling-todo/README.md)
+  | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/08-todoapp-filtering-todos/README.md)
  </sub>
