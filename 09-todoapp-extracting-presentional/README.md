@@ -41,6 +41,21 @@ Komponent TodoApp
 class TodoApp extends Component {
     
     ...
+    
+    onTodoClick = (id) => {
+        const {store} = this.props;
+
+        console.log("BEFORE", store.getState());
+
+        store.dispatch({
+            type: 'TOGGLE_TODO',
+            id
+        });
+
+        console.log("AFTER", store.getState());
+    };
+    
+    ...
      
     getVisibleTodos = (todos, filter) => {
         switch (filter) {
