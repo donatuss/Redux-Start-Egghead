@@ -8,4 +8,4 @@ Tematy:
 * [05 Reducer Composition - komponowanie reduktora wyższego rzędu](https://github.com/donatuss/Redux-Start-Egghead/blob/master/05-reducer-composition/README.md)
 * [06 Todos Aplikacja - Część 1 - Struktura, React, Redux Store, Semantic UI](https://github.com/donatuss/Redux-Start-Egghead/blob/master/06-todoapp-first-draft/README.md)
 * [07 Todos Aplikacja - Część 2 - Uzupełnienie reduktora o TOGGLE_TODO](https://github.com/donatuss/Redux-Start-Egghead/blob/master/07-todoapps-toggling-todo/README.md)
-* [07 Todos Aplikacja - Część 3 - Filtrowanie todos](https://github.com/donatuss/Redux-Start-Egghead/blob/master/08-todoapp-filtering-todos/README.md)
+* [08 Todos Aplikacja - Część 3 - Filtrowanie todos](https://github.com/donatuss/Redux-Start-Egghead/blob/master/08-todoapp-filtering-todos/README.md)
