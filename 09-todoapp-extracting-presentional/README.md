@@ -1,4 +1,4 @@
-## 08 Todos Aplikacja - Część 4 -  Wyodrębnienie komponentów odpowiedzialnych za prezentację
+## 09 Todos Aplikacja - Część 4 -  Wyodrębnienie komponentów odpowiedzialnych za prezentację
 <sub>[<< Cofnij](https://github.com/donatuss/Redux-Start-Egghead/blob/master/README.md)</sub><br/>
 
 Część 4 aplikacji Todos - komponenty prezentacyjne Todo, TodoList  nie zawierają logiki, odpowiadają jedynie z prezentacje (widok).
@@ -116,5 +116,5 @@ export default TodoApp;
  <br/>
  
  <sub>[<< Poprzedni](https://github.com/donatuss/Redux-Start-Egghead/blob/master/08-todoapp-filtering-todos/README.md)
-  | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/08-todoapp-filtering-todos/README.md)
+  | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/10-todoapp-extracting-presentional-2/README.md)
  </sub>
