@@ -11,3 +11,4 @@ Tematy:
 * [08 Todos Aplikacja - Część 3 - Filtrowanie todos](https://github.com/donatuss/Redux-Start-Egghead/blob/master/08-todoapp-filtering-todos/README.md)
 * [09 Todos Aplikacja - Część 4 - Wyodrębnienie komponentów prezentacji](https://github.com/donatuss/Redux-Start-Egghead/blob/master/09-todoapp-extracting-presentional/README.md)
 * [10 Todos Aplikacja - Część 5 - Wyodrębnienie komponentów prezentacji cz. 2](https://github.com/donatuss/Redux-Start-Egghead/blob/master/10-todoapp-extracting-presentional-2/README.md)
+* [11 Todos Aplikacja - Część 6 - Wyodrębnienie komponentów kontenerów](https://github.com/donatuss/Redux-Start-Egghead/blob/master/11-todoapp-extracting-container/README.md)

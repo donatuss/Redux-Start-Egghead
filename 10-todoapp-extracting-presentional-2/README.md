@@ -5,6 +5,6 @@ Część 5 aplikacji Todos - komponenty prezentacyjne - AddTodo, FilterHeader, F
 
  <br/>
  
- <sub>[<< Poprzedni](https://github.com/donatuss/Redux-Start-Egghead/blob/master/08-todoapp-filtering-todos/README.md)
-  | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/08-todoapp-filtering-todos/README.md)
+ <sub>[<< Poprzedni](https://github.com/donatuss/Redux-Start-Egghead/blob/master/09-todoapp-extracting-presentional/README.md)
+  | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/11-todoapp-extracting-container/README.md)
  </sub>
