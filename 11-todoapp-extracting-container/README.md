@@ -120,5 +120,5 @@ export default FilterLink;
  <br/>
  
  <sub>[<< Poprzedni](https://github.com/donatuss/Redux-Start-Egghead/blob/master/10-todoapp-extracting-presentional-2/README.md)
-  | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/12-.../README.md)
+  | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/12-todoapp-extracting-container-2/README.md)
  </sub>
