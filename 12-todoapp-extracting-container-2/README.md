@@ -6,5 +6,5 @@ Część 7 aplikacji Todos - Wyodrębnienie komponentów kontenerowych (AddTodo,
  <br/>
  
  <sub>[<< Poprzedni](https://github.com/donatuss/Redux-Start-Egghead/blob/master/11-todoapp-extracting-container/README.md)
-  | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/12-.../README.md)
+  | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/13-todoapp-pass-store-by-context/README.md)
  </sub>
