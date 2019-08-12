@@ -14,3 +14,4 @@ Tematy:
 * [11 Todos Aplikacja - Część 6 - Wyodrębnienie komponentów kontenerów](https://github.com/donatuss/Redux-Start-Egghead/blob/master/11-todoapp-extracting-container/README.md)
 * [12 Todos Aplikacja - Część 7 - Wyodrębnienie komponentów kontenerów cz. 2](https://github.com/donatuss/Redux-Start-Egghead/blob/master/12-todoapp-extracting-container-2/README.md)
 * [13 Todos Aplikacja - Część 8 - Przekazywanie Redux Store w dół przez Context](https://github.com/donatuss/Redux-Start-Egghead/blob/master/13-todoapp-pass-store-by-context/README.md)
+* [14 Todos Aplikacja - Część 9 - Przekazywanie Redux Store w dół przez Context - Redux-React Provider](https://github.com/donatuss/Redux-Start-Egghead/blob/master/14-todoapps-use-react-redux-provider/README.md)
