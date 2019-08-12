@@ -46,6 +46,6 @@ export default FilterLink
 ```
  <br/>
  
- <sub>[<< Poprzedni](https://github.com/donatuss/Redux-Start-Egghead/blob/master/12-todoapp-extracting-container-2/README.md)
-  | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/14-.../README.md)
+ <sub>[<< Poprzedni](https://github.com/donatuss/Redux-Start-Egghead/blob/master/13-todoapp-pass-store-by-context/README.md)
+  | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/15-.../README.md)
  </sub>
