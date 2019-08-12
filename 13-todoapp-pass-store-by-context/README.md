@@ -58,6 +58,20 @@ export default Provider
 ```
 
 ```javascript
+//index.js
+import Provider from './store/Provider';
+import configureStore from './store/configureStore';
+
+ReactDOM.render(
+    <Provider store={configureStore()}>
+        <TodoApp/>
+    </Provider>,
+    document.getElementById('root')
+);
+```
+
+
+```javascript
 //TodoApp
 
 return (
@@ -92,5 +106,5 @@ FilterLink.contextTypes = {
  <br/>
  
  <sub>[<< Poprzedni](https://github.com/donatuss/Redux-Start-Egghead/blob/master/12-todoapp-extracting-container-2/README.md)
-  | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/14-.../README.md)
+  | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/14-todoapps-use-react-redux-provider/README.md)
  </sub>
