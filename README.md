@@ -16,3 +16,4 @@ Tematy:
 * [13 Todos Aplikacja - Część 8 - Przekazywanie Redux Store w dół przez Context](https://github.com/donatuss/Redux-Start-Egghead/blob/master/13-todoapp-pass-store-by-context/README.md)
 * [14 Todos Aplikacja - Część 9 - Przekazywanie Redux Store w dół przez Context - Redux-React Provider](https://github.com/donatuss/Redux-Start-Egghead/blob/master/14-todoapps-use-react-redux-provider/README.md)
 * [15 Todos Aplikacja - Część 10 - Redux-React connect - przekazanie danych do komponentów](https://github.com/donatuss/Redux-Start-Egghead/blob/master/15-todoapps-react-redux-connect/README.md)
+* [16 Todos Aplikacja - Część 11 - Redux-React connect - przekazanie danych do komponentów cz. 2](https://github.com/donatuss/Redux-Start-Egghead/blob/master/16-todoapps-react-redux-connect-2/README.md)
