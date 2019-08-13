@@ -73,5 +73,5 @@ export default TodoList;
  <br/>
  
  <sub>[<< Poprzedni](https://github.com/donatuss/Redux-Start-Egghead/blob/master/14-todoapps-use-react-redux-provider/README.md)
-  | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/16-.../README.md)
+  | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/16-todoapps-react-redux-connect-2/README.md)
  </sub>
