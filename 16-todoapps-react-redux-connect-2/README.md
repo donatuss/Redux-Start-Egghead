@@ -78,5 +78,5 @@ export default connect(mapStateToProps, mapDispatchToProps)(AddTodo);
  <br/>
  
  <sub>[<< Poprzedni](https://github.com/donatuss/Redux-Start-Egghead/blob/master/15-todoapps-react-redux-connect/README.md)
-  | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/17-.../README.md)
+  | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/17-todoapps-react-redux-connect-3/README.md)
  </sub>
