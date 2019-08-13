@@ -1,4 +1,4 @@
-## 15 Todos Aplikacja - Część 11 - Redux-React connect - przekazanie danych do komponentów prezentacji
+## 16 Todos Aplikacja - Część 11 - Redux-React connect - przekazanie danych do komponentów prezentacji
 <sub>[<< Cofnij](https://github.com/donatuss/Redux-Start-Egghead/blob/master/README.md)</sub><br/>
 
 Część 11 aplikacji Todos - Zmiana komponentu kontenera AddTodo. Użycie funkcji connect z react-redux.
