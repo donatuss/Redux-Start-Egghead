@@ -90,5 +90,5 @@ ReactDOM.render(
  <br/>
  
  <sub>[<< Poprzedni](https://github.com/donatuss/Redux-Start-Egghead/blob/master/16-todoapps-react-redux-connect-2/README.md)
-  | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/18-.../README.md)
+  | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/18-todoapps-extracting-action/README.md)
  </sub>
