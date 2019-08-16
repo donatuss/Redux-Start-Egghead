@@ -18,3 +18,4 @@ Tematy:
 * [15 Todos Aplikacja - Część 10 - Redux-React connect - przekazanie danych do komponentów](https://github.com/donatuss/Redux-Start-Egghead/blob/master/15-todoapps-react-redux-connect/README.md)
 * [16 Todos Aplikacja - Część 11 - Redux-React connect - przekazanie danych do komponentów cz. 2](https://github.com/donatuss/Redux-Start-Egghead/blob/master/16-todoapps-react-redux-connect-2/README.md)
 * [17 Todos Aplikacja - Część 12 - Redux-React connect - przekazanie danych do komponentów cz. 3](https://github.com/donatuss/Redux-Start-Egghead/blob/master/17-todoapps-react-redux-connect-3/README.md)
+* [18 Todos Aplikacja - Część 13 - Wyodrębnienie akcji](https://github.com/donatuss/Redux-Start-Egghead/blob/master/18-todoapps-extracting-action/README.md)
