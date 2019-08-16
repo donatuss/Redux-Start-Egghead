@@ -1,7 +1,7 @@
 ## 18 Todos Aplikacja - Część 13 - Wyodrębnienie akcji
 <sub>[<< Cofnij](https://github.com/donatuss/Redux-Start-Egghead/blob/master/README.md)</sub><br/>
 
-Część 13 aplikacji Todos - Wyodrębnieni akcji do katalogu actions z plikami todo.js i visibilityFilter.js        
+Wyodrębnienie akcji do katalogu actions z plikami todo.js i visibilityFilter.js        
 
 ```javascript
 //todo.js
@@ -59,4 +59,5 @@ const mapDispatchToProps = (dispatch, ownProps) => {
  <br/>
  
  <sub>[<< Poprzedni](https://github.com/donatuss/Redux-Start-Egghead/blob/master/17-todoapps-react-redux-connect-3/README.md)
+   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/19-todoapps-simplifying-arrow-functions/README.md)
  </sub>

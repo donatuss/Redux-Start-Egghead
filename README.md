@@ -19,3 +19,4 @@ Tematy:
 * [16 Todos Aplikacja - Część 11 - Redux-React connect - przekazanie danych do komponentów cz. 2](https://github.com/donatuss/Redux-Start-Egghead/blob/master/16-todoapps-react-redux-connect-2/README.md)
 * [17 Todos Aplikacja - Część 12 - Redux-React connect - przekazanie danych do komponentów cz. 3](https://github.com/donatuss/Redux-Start-Egghead/blob/master/17-todoapps-react-redux-connect-3/README.md)
 * [18 Todos Aplikacja - Część 13 - Wyodrębnienie akcji](https://github.com/donatuss/Redux-Start-Egghead/blob/master/18-todoapps-extracting-action/README.md)
+* [19 Todos Aplikacja - Część 14 - Uproszczenie zapisu funkcji wykorzystujących notacje strzałkową](https://github.com/donatuss/Redux-Start-Egghead/blob/master/19-todoapps-simplifying-arrow-functions/README.md)
