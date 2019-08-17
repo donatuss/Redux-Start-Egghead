@@ -21,5 +21,5 @@ const configureStore = () => {
 <br/>
  
  <sub>[<< Poprzedni](https://github.com/donatuss/Redux-Start-Egghead/blob/master/19-todoapps-simplifying-arrow-functions/README.md)
-   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/21-.../README.md)
+   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/21-todoapps-persist-state-to-local-storage/README.md)
  </sub>
