@@ -49,5 +49,5 @@ const mapDispatchToProps = (dispatch, ownProps) => ({
 <br/>
  
  <sub>[<< Poprzedni](https://github.com/donatuss/Redux-Start-Egghead/blob/master/18-todoapps-extracting-action/README.md)
-   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/20-.../README.md)
+   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/20-todoapps-initial-state/README.md)
  </sub>
