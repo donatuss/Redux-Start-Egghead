@@ -23,3 +23,4 @@ Tematy:
 * [20 Todos Aplikacja - Część 15 - Dostarczenie początkowego stanu aplikacji - Redux state](https://github.com/donatuss/Redux-Start-Egghead/blob/master/20-todoapps-initial-state/README.md)
 * [21 Todos Aplikacja - Część 16 - Zapisanie Redux state w lokalnej pamięci - Local Storage](https://github.com/donatuss/Redux-Start-Egghead/blob/master/21-todoapps-persist-state-to-local-storage/README.md)
 * [22 Todos Aplikacja - Część 17 - Refactoring punktu wejściowego aplikacji. Redux state w pamięci sesji - Session Storage](https://github.com/donatuss/Redux-Start-Egghead/blob/master/22-todoapps-refactor-entry-point/README.md)
+* [23 Todos Aplikacja - Część 18 - Dodanie React Router](https://github.com/donatuss/Redux-Start-Egghead/blob/master/23-todoapps-add-react-router/README.md)

@@ -33,12 +33,12 @@ const Root = ({store}) => (
 export default Root;
 ```
 ```javascript
-// localStorage.js - zmian na sessionStorge  
+// localStorage.js - zmiana na sessionStorge  
 const serializedState = sessionStorage.getItem("todosAppState");
 ```
 
 <br/>
  
  <sub>[<< Poprzedni](https://github.com/donatuss/Redux-Start-Egghead/blob/master/21-todoapps-persist-state-to-local-storage/README.md)
-   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/23-.../README.md)
+   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/23-todoapps-add-react-router/README.md)
  </sub>
