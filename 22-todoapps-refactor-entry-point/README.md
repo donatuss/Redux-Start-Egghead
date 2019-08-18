@@ -39,6 +39,6 @@ const serializedState = sessionStorage.getItem("todosAppState");
 
 <br/>
  
- <sub>[<< Poprzedni](https://github.com/donatuss/Redux-Start-Egghead/blob/master/20-todoapps-initial-state/README.md)
-   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/22-.../README.md)
+ <sub>[<< Poprzedni](https://github.com/donatuss/Redux-Start-Egghead/blob/master/21-todoapps-persist-state-to-local-storage/README.md)
+   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/23-.../README.md)
  </sub>
