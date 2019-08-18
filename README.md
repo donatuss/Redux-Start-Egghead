@@ -22,3 +22,4 @@ Tematy:
 * [19 Todos Aplikacja - Część 14 - Uproszczenie zapisu funkcji wykorzystujących notacje strzałkową](https://github.com/donatuss/Redux-Start-Egghead/blob/master/19-todoapps-simplifying-arrow-functions/README.md)
 * [20 Todos Aplikacja - Część 15 - Dostarczenie początkowego stanu aplikacji - Redux state](https://github.com/donatuss/Redux-Start-Egghead/blob/master/20-todoapps-initial-state/README.md)
 * [21 Todos Aplikacja - Część 16 - Zapisanie Redux state w lokalnej pamięci - Local Storage](https://github.com/donatuss/Redux-Start-Egghead/blob/master/21-todoapps-persist-state-to-local-storage/README.md)
+* [22 Todos Aplikacja - Część 17 - Refactoring punktu wejściowego aplikacji. Redux state w pamięci sesji - Session Storage](https://github.com/donatuss/Redux-Start-Egghead/blob/master/22-todoapps-refactor-entry-point/README.md)

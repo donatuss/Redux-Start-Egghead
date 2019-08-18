@@ -62,5 +62,5 @@ export default configureStore;
 <br/>
  
  <sub>[<< Poprzedni](https://github.com/donatuss/Redux-Start-Egghead/blob/master/20-todoapps-initial-state/README.md)
-   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/22-.../README.md)
+   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/22-todoapps-refactor-entry-point/README.md)
  </sub>
