@@ -64,18 +64,10 @@ class FilterLink extends Component {
 
     render() {
         const {children, filter} = this.props;
-
         return (
-            <NavLink
-                to={filter === 'all' ? '' : '/' + filter}
-                activeStyle={{
-                    textDecoration: 'none',
-                    color: 'black'
-                }}
-            >
+            <NavLink to={filter === 'all' ? '' : '/' + filter}>
                 <Button size="small"><Icon/>{children}<Icon/></Button>
             </NavLink>
-
         )
     };
 }
