@@ -23,5 +23,5 @@ export default Root;
 <br/>
  
  <sub>[<< Poprzedni](https://github.com/donatuss/Redux-Start-Egghead/blob/master/22-todoapps-refactor-entry-point/README.md)
-   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/24-.../README.md)
+   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/24-todoapps-navigate-react-router-link/README.md)
  </sub>
