@@ -24,3 +24,4 @@ Tematy:
 * [21 Todos Aplikacja - Część 16 - Zapisanie Redux state w lokalnej pamięci - Local Storage](https://github.com/donatuss/Redux-Start-Egghead/blob/master/21-todoapps-persist-state-to-local-storage/README.md)
 * [22 Todos Aplikacja - Część 17 - Refactoring punktu wejściowego aplikacji. Redux state w pamięci sesji - Session Storage](https://github.com/donatuss/Redux-Start-Egghead/blob/master/22-todoapps-refactor-entry-point/README.md)
 * [23 Todos Aplikacja - Część 18 - Dodanie React Router](https://github.com/donatuss/Redux-Start-Egghead/blob/master/23-todoapps-add-react-router/README.md)
+* [24 Todos Aplikacja - Część 19 - Nawigacja za pomocą React Router NavLink](https://github.com/donatuss/Redux-Start-Egghead/blob/master/24-todoapps-navigate-react-router-link/README.md)

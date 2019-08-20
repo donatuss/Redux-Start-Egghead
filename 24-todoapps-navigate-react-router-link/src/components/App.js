@@ -1,0 +1,42 @@
+import React, {Component} from 'react';
+import {Container, Divider, Grid} from 'semantic-ui-react';
+import AddTodo from "../containers/AddTodo";
+import FilterHeader from "./FilterHeader";
+import VisibleTodoList from "../containers/VisibleTodoList";
+
+
+class App extends Component {
+
+    render() {
+        const {match} = this.props;
+        return (
+            <div>
+                <Container fluid>
+                    <Divider/>
+                    <Divider/>
+                    <Grid centered columns={2}>
+                        <Grid.Column>
+                            <FilterHeader/>
+                        </Grid.Column>
+                    </Grid>
+                    <Grid centered columns={2}>
+                        <Grid.Column>
+                            <AddTodo/>
+                        </Grid.Column>
+                    </Grid>
+                </Container>
+                <Container>
+                    <Grid centered columns={2}>
+                        <Grid.Column>
+                            <Grid.Column>
+                                <VisibleTodoList filter={match.params.filter || 'all'}/>
+                            </Grid.Column>
+                        </Grid.Column>
+                    </Grid>
+                </Container>
+            </div>
+        )
+    }
+}
+
+export default App;
