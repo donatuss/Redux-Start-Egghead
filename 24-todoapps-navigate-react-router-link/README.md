@@ -182,7 +182,7 @@ const todoApp = combineReducers({
 
 export default todoApp;
 ```
-Usunięto zbędna plik reprezentujący akcję visibilityFilter.js  
+Usunięto zbędny plik reprezentujący akcję visibilityFilter.js  
 ```javascript
 // actions/visibilityFilter.js 
 export const setVisibilityFilter = (filter) => ({
@@ -197,5 +197,5 @@ export const setVisibilityFilter = (filter) => ({
 <br/>
  
  <sub>[<< Poprzedni](https://github.com/donatuss/Redux-Start-Egghead/blob/master/23-todoapps-add-react-router/README.md)
-   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/25-.../README.md)
+   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/25-todoapps-withRouter/README.md)
  </sub>
