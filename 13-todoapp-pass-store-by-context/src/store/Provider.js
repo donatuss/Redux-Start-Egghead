@@ -3,7 +3,6 @@ import PropTypes from 'prop-types';
 
 class Provider extends Component {
 
-
     getChildContext() {
         return {
             store: this.props.store

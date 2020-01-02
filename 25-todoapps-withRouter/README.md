@@ -26,7 +26,7 @@ class App extends Component {
         return (
             ...
             <Grid.Column>
-                <VisibleTodoList filter={match.params.filter || 'all'}/>
+                <VisibleTodoList/>
             </Grid.Column>
             ...
         );
