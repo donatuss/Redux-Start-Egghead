@@ -74,19 +74,30 @@ ReactDOM.render(
 ```javascript
 //TodoApp
 
+componentDidMount() {
+        const {store} = this.context;
+        //callback after action
+        this.unsubscribe = store.subscribe(() => {
+            //force render
+            this.forceUpdate();
+        });
+    }
+
+...
+
 return (
-<div>
-    <Container fluid>
-        <Divider/>
-        <Divider/>
-        <Grid centered columns={2}>
-            <Grid.Column>
-                <FilterHeader/>
-            </Grid.Column>
-            ...
-        </Grid>
-    </Container>
-</div>
+    <div>
+        <Container fluid>
+            <Divider/>
+            <Divider/>
+            <Grid centered columns={2}>
+                <Grid.Column>
+                    <FilterHeader/>
+                </Grid.Column>
+                ...
+            </Grid>
+        </Container>
+    </div>
 
 TodoApp.contextTypes = {
     store: PropTypes.object
@@ -97,6 +108,7 @@ render() {
     const {store} = this.context;
     const {visibilityFilter} = store.getState();
     };
+
 FilterLink.contextTypes = {
     store: PropTypes.object
 };
