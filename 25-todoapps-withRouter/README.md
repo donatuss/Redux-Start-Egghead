@@ -93,5 +93,5 @@ export default withRouter(connect(mapStateToProps, mapDispatchToProps)(TodoList)
 <br/>
  
  <sub>[<< Poprzedni](https://github.com/donatuss/Redux-Start-Egghead/blob/master/24-todoapps-navigate-react-router-link/README.md)
-   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/26-.../README.md)
+   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/26-todoapps-shorthand-notation/README.md)
  </sub>
