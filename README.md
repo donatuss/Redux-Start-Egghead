@@ -26,3 +26,4 @@ Tematy:
 * [23 Todos Aplikacja - Część 18 - Dodanie React Router](https://github.com/donatuss/Redux-Start-Egghead/blob/master/23-todoapps-add-react-router/README.md)
 * [24 Todos Aplikacja - Część 19 - Nawigacja za pomocą React Router NavLink](https://github.com/donatuss/Redux-Start-Egghead/blob/master/24-todoapps-navigate-react-router-link/README.md)
 * [25 Todos Aplikacja - Część 20 - Przekazywanie parametrów Router za pomocą withRouter](https://github.com/donatuss/Redux-Start-Egghead/blob/master/25-todoapps-withRouter/README.md)
+* [26 Todos Aplikacja - Część 21 - Skrócona notacja użyta w mapDispatchToProps](https://github.com/donatuss/Redux-Start-Egghead/blob/master/26-todoapps-shorthand-notation/README.md)
