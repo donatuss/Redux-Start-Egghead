@@ -63,5 +63,5 @@ export default configureStore;
 <br/>
  
  <sub>[<< Poprzedni](https://github.com/donatuss/Redux-Start-Egghead/blob/master/28-todoapps-normalizing-state/README.md)
-   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/30-.../README.md)
+   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/30-todoapps-fake-asynch-backend/README.md)
  </sub>
