@@ -13,9 +13,13 @@ Chcemy zmodyfikować ten state aby przypominał bazę danych. A więc chcemy że
 zawierający w sobie indeksowane identyfikatorem obiekty reprezentujące pojedynczy Todo. Struktura po zmianach będzie wyglądać następująco
 ``` 
 {todos:
-  {byId:{
-    a34d5a88-3ce7-4c7b-be83-0526f3c1911b: {id: "a34d5a88-3ce7-4c7b-be83-0526f3c1911b", text: "E.107", completed: false}
-    1f8aab29-859d-4ee2-a63c-d64abe26de33: {id: "1f8aab29-859d-4ee2-a63c-d64abe26de33", text: "E.621", completed: false}}
+  {byId:
+    {
+      a34d5a88-3ce7-4c7b-be83-0526f3c1911b: 
+        {id: "a34d5a88-3ce7-4c7b-be83-0526f3c1911b", text: "E.107", completed: false}
+      1f8aab29-859d-4ee2-a63c-d64abe26de33: 
+        {id: "1f8aab29-859d-4ee2-a63c-d64abe26de33", text: "E.621", completed: false}
+    }
   {allIds: ["a34d5a88-3ce7-4c7b-be83-0526f3c1911b", "1f8aab29-859d-4ee2-a63c-d64abe26de33"]}
 }
 ``` 
