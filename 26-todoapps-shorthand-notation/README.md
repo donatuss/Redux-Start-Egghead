@@ -49,5 +49,5 @@ class TodoList extends Component {
 <br/>
  
  <sub>[<< Poprzedni](https://github.com/donatuss/Redux-Start-Egghead/blob/master/25-todoapps-withRouter/README.md)
-   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/27-.../README.md)
+   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/27-todoapps-colocation-selectors-with-reducers/README.md)
  </sub>
