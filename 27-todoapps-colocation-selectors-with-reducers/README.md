@@ -100,7 +100,7 @@ const mapStateToProps = (state, {match: {params: {filter}}}) => {
 export default withRouter(connect(mapStateToProps, {onTodoClick: toggleTodo})(TodoList));
 ```
 
-Krok 2. Przeniesienie getVisibleTodos do pliku reducers/todos.js. Zgodnie z konwencja zmieniam nazwę argumentu z getVisibleTodos(todos, filter) na getVisibleTodos(state, filter). 
+Krok 3. Przeniesienie getVisibleTodos do pliku reducers/todos.js. Zgodnie z konwencja zmieniam nazwę argumentu z getVisibleTodos(todos, filter) na getVisibleTodos(state, filter). 
 To wyraźnie wskazuje że zarówno reducer (todos) wykorzystuje state (modyfikuje go poprzez akcje) jak i selektor wykorzystuje (ale nie modyfikuje) celem pokazania na UI.
 Domyślny eksport z pliku musi być reduktorem  (export default todos), ale selektor również eksportujemy i będziemy mieli do niego dostęp, jego "delegacje" o takiej samej nazwie 
 umieszczamy w reducers/index.js.    
