@@ -117,5 +117,5 @@ export const getVisibleTodos = (state, filter) => {
 <br/>
  
  <sub>[<< Poprzedni](https://github.com/donatuss/Redux-Start-Egghead/blob/master/27-todoapps-colocation-selectors-with-reducers/README.md)
-   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/29-.../README.md)
+   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/29-todoapps-wrapping-dispatch/README.md)
  </sub>
