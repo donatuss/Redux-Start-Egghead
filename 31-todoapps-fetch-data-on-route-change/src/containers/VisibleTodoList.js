@@ -17,6 +17,7 @@ class VisibleTodoList extends Component {
             fetchTodos(this.props.filter).then(x => console.log("Todos From Fake DB", x));
         }
     }
+
     render() {
         return <TodoList {...this.props}/>
     }

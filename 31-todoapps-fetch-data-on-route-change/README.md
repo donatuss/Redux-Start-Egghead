@@ -40,7 +40,17 @@ Poniżej wypisanie na konsoli danych z symulowanego backend-u w zależności od 
 import {fetchTodos} from "../api";
 
 class VisibleTodoList extends Component {
-    
+
+    componentDidMount() {
+        fetchTodos(this.props.filter).then(x => console.log("Todos From Fake DB", x));
+    }
+
+    componentDidUpdate(prevProps){
+        if(prevProps.filter !== this.props.filter){
+            fetchTodos(this.props.filter).then(x => console.log("Todos From Fake DB", x));
+        }
+    }
+
     render() {
         return <TodoList {...this.props}/>
     }
