@@ -28,3 +28,4 @@ Tematy:
 * [25 Todos Aplikacja - Część 20 - Przekazywanie parametrów Router za pomocą withRouter](https://github.com/donatuss/Redux-Start-Egghead/blob/master/25-todoapps-withRouter/README.md)
 * [26 Todos Aplikacja - Część 21 - Skrócona notacja użyta w mapDispatchToProps](https://github.com/donatuss/Redux-Start-Egghead/blob/master/26-todoapps-shorthand-notation/README.md)
 * [27 Todos Aplikacja - Część 22 - Relokacja funkcji selektorów do reduktorów](https://github.com/donatuss/Redux-Start-Egghead/blob/master/27-todoapps-colocation-selectors-with-reducers/README.md)
+* [28 Todos Aplikacja - Część 23 - Unormowanie stanu aplikacji. W state umieszczamy obiekty indeksowane id](https://github.com/donatuss/Redux-Start-Egghead/blob/master/28-todoapps-normalizing-state/README.md)

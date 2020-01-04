@@ -182,5 +182,5 @@ export default withRouter(connect(mapStateToProps, {onTodoClick: toggleTodo})(To
 <br/>
  
  <sub>[<< Poprzedni](https://github.com/donatuss/Redux-Start-Egghead/blob/master/26-todoapps-shorthand-notation/README.md)
-   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/28-.../README.md)
+   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/28-todoapps-normalizing-state/README.md)
  </sub>
