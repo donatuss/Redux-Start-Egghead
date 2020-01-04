@@ -1,4 +1,4 @@
-## 27 Todos Aplikacja - Część 23 - Unormowanie stanu aplikacji. W state umieszczamy obiekty indeksowane identyfikatorem.
+## 28 Todos Aplikacja - Część 23 - Unormowanie stanu aplikacji. W state umieszczamy obiekty indeksowane identyfikatorem.
 <sub>[<< Cofnij](https://github.com/donatuss/Redux-Start-Egghead/blob/master/README.md)</sub><br/>
 
 W chwili obecnej stan aplikacji modyfikowany przez reduktor todos jest reprezentowany jako tablica. 
