@@ -113,5 +113,5 @@ export default configureStore;
 <br/>
  
  <sub>[<< Poprzedni](https://github.com/donatuss/Redux-Start-Egghead/blob/master/29-todoapps-wrapping-dispatch/README.md)
-   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/31-.../README.md)
+   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/31-todoapps-fetch-data-on-route-change/README.md)
  </sub>
