@@ -29,3 +29,4 @@ Tematy:
 * [26 Todos Aplikacja - Część 21 - Skrócona notacja użyta w mapDispatchToProps](https://github.com/donatuss/Redux-Start-Egghead/blob/master/26-todoapps-shorthand-notation/README.md)
 * [27 Todos Aplikacja - Część 22 - Relokacja funkcji selektorów do reduktorów](https://github.com/donatuss/Redux-Start-Egghead/blob/master/27-todoapps-colocation-selectors-with-reducers/README.md)
 * [28 Todos Aplikacja - Część 23 - Unormowanie stanu aplikacji. W state umieszczamy obiekty indeksowane id](https://github.com/donatuss/Redux-Start-Egghead/blob/master/28-todoapps-normalizing-state/README.md)
+* [29 Todos Aplikacja - Część 24 - Opakowanie metody dispatch obiektu store. Logowanie state aplikacji](https://github.com/donatuss/Redux-Start-Egghead/blob/master/29-todoapps-wrapping-dispatch/README.md)

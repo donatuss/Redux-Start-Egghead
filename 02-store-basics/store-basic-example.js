@@ -26,7 +26,7 @@ document.getElementById("btn02").addEventListener('click', () => {
     store.dispatch({type: "DECREMENT"})
 });
 
-console.log("Initial state:", store.getState());
+console.log("Initial state1:", store.getState());
 store.dispatch({type: "INCREMENT"});
 console.log("Action INCREMENT state:", store.getState());
 store.dispatch({type: "INCREMENT"});
