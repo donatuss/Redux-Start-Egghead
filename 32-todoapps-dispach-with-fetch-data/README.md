@@ -143,8 +143,9 @@ export default withRouter(connect(mapStateToProps, mapDispatchToProps)(VisibleTo
 import * as actions from "../actions";
 export default withRouter(connect(mapStateToProps, actions)(VisibleTodoList));
 
-//Ponieważ komponent TodoList korzysta z properties onTodoClick delegując w wywołaniu zwrotnym akcję toggleTodo, a nazwy są różne należy przekazać properties wywołana zwrotnego pod nazwą onTodoClick.
-// Zamiast
+//Ponieważ komponent TodoList korzysta z properties onTodoClick delegując w wywołaniu zwrotnym akcję toggleTodo, 
+//a nazwy są różne należy przekazać properties wywołana zwrotnego pod nazwą onTodoClick.
+// Zamiast:
 render() {
     return <TodoList {...this.props}/>
 }
