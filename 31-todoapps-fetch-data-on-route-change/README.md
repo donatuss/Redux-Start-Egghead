@@ -61,5 +61,5 @@ export default withRouter(connect(mapStateToProps, {onTodoClick: toggleTodo})(Vi
 <br/>
  
  <sub>[<< Poprzedni](https://github.com/donatuss/Redux-Start-Egghead/blob/master/30-todoapps-fake-asynch-backend/README.md)
-   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/32-.../README.md)
+   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/32-todoapps-dispach-with-fetch-data/README.md)
  </sub>
