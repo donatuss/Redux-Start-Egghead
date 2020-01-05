@@ -125,7 +125,9 @@ export default withRouter(connect(mapStateToProps, mapDispatchToProps)(VisibleTo
 */
 
 // Jest
-export default withRouter(connect(mapStateToProps, {onTodoClick: toggleTodo, receiveTodos})(VisibleTodoList));
+export default withRouter(
+    connect(mapStateToProps, {onTodoClick: toggleTodo, receiveTodos})(VisibleTodoList)
+    );
 ```
 Krok 4. Zmodyfikujemy zapis ```export default withRouter( ...)``` skrócając jego formę jeszcze.
 ```javascript
