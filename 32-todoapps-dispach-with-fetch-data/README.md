@@ -82,9 +82,9 @@ const mapStateToProps = (state, param) => {
 
 /*
 receiveTodos dostarczony do props realizujący wywołanie wywołania zwrotnego - funkcji dispach,
-w momencie pobrania danych - w tym przypadku promise fetchTodos wywoływany z poziomu fetchData w momencie
-zmountowania komponentu - componentDidMount lub w momencie zmiany parametru filter w componentDidUpdate
-a wiec też w momencie zmiany routingu
+w momencie pobrania danych - w tym przypadku promise fetchTodos wywoływany z poziomu fetchData
+w momencie zmountowania komponentu - componentDidMount lub w momencie zmiany parametru 
+filter w componentDidUpdate, a wiec też w momencie zmiany routingu
 */   
 const mapDispatchToProps = (dispatch) => {
     return {
