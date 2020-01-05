@@ -33,3 +33,4 @@ Tematy:
 * [30 Todos Aplikacja - Część 25 - Dodanie imitowanej bazy danych. Symulacja asynchronicznego pobrania danych](https://github.com/donatuss/Redux-Start-Egghead/blob/master/30-todoapps-fake-asynch-backend/README.md)
 * [31 Todos Aplikacja - Część 26 - Pobranie danych (cd..) na poziomie komponentu w zależności od ustawionego routingu](https://github.com/donatuss/Redux-Start-Egghead/blob/master/31-todoapps-fetch-data-on-route-change/README.md)
 * [32 Todos Aplikacja - Część 27 - Pobranie danych (cd..) delegowanie akcji po pobraniu danych](https://github.com/donatuss/Redux-Start-Egghead/blob/master/32-todoapps-dispach-with-fetch-data/README.md)
+* [33 Todos Aplikacja - Część 28 - Opakowanie metody dispatch obiektu store - obsługa promises](https://github.com/donatuss/Redux-Start-Egghead/blob/master/33-todoapps-wrapping-dispatch-recognize-promise/README.md)
