@@ -160,5 +160,5 @@ render() {
 <br/>
  
  <sub>[<< Poprzedni](https://github.com/donatuss/Redux-Start-Egghead/blob/master/31-todoapps-fetch-data-on-route-change/README.md)
-   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/33-.../README.md)
+   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/33-todoapps-wrapping-dispatch-recognize-promise/README.md)
  </sub>
