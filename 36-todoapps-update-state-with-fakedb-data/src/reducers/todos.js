@@ -27,7 +27,7 @@ const allIds = (state = [], action) => {
 };
 
 const activeIds = (state = [], action) => {
-    if (action.filter !== 'all') {
+    if (action.filter !== 'active') {
         return state;
     }
 
@@ -40,7 +40,7 @@ const activeIds = (state = [], action) => {
 };
 
 const completedIds = (state = [], action) => {
-    if (action.filter !== 'active') {
+    if (action.filter !== 'completed') {
         return state;
     }
 
