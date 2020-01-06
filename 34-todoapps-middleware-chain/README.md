@@ -156,9 +156,9 @@ Zmiana nr 2:
 
 /* 
 addLoggingToDispatch to funkcja ktora działa na store i zwraca funkcję next która wykonuje 
-na store jakiś działanie npwypisuje stan store.getState(), oraz fukcja która sama wykonuje 
-swoje dziłanie - w tym przypadku deleguje akcje. 
-W chwili definicji nieokreślona ale podając ja w wrapDispatchWithMmiddlewares zamieniając 
+na store jakieś działanie np. wypisuje stan store.getState(), oraz funkcja która sama wykonuje 
+swoje działanie - w tym przypadku deleguje akcje. 
+W chwili definicji jest nieokreślona, ale podajemy ją w wrapDispatchWithMmiddlewares zamieniając 
 store.dispatch = middleware(store) 
 na 
 store.dispatch = middleware(store)(store.dispach) 
