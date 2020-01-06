@@ -322,5 +322,5 @@ const configureStore = () => {
 <br/>
  
  <sub>[<< Poprzedni](https://github.com/donatuss/Redux-Start-Egghead/blob/master/33-todoapps-wrapping-dispatch-recognize-promise/README.md)
-   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/35-.../README.md)
+   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/35-todoapps-redux-middleware/README.md)
  </sub>
