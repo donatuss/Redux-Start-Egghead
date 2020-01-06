@@ -36,3 +36,4 @@ Tematy:
 * [33 Todos Aplikacja - Część 28 - Opakowanie metody dispatch obiektu store - obsługa promises](https://github.com/donatuss/Redux-Start-Egghead/blob/master/33-todoapps-wrapping-dispatch-recognize-promise/README.md)
 * [34 Todos Aplikacja - Część 29 - Middleware Chain - opakowanie dispatch](https://github.com/donatuss/Redux-Start-Egghead/blob/master/34-todoapps-middleware-chain/README.md)
 * [35 Todos Aplikacja - Część 30 - Redux ApplyMiddleware - zmiana własnej implementacji na Radux](https://github.com/donatuss/Redux-Start-Egghead/blob/master/35-todoapps-redux-middleware/README.md)
+* [36 Todos Aplikacja - Część 31 - Aktualizacja state danymi z symulowanej bazy danych. Zmiana konstrukcji state](https://github.com/donatuss/Redux-Start-Egghead/blob/master/36-todoapps-update-state-with-fakedb-data/README.md)
