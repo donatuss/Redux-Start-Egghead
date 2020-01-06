@@ -77,5 +77,5 @@ const configureStore = () => {
 <br/>
  
  <sub>[<< Poprzedni](https://github.com/donatuss/Redux-Start-Egghead/blob/master/34-todoapps-middleware-chain/README.md)
-   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/36-.../README.md)
+   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/36-todoapps-update-state-with-fakedb-data/README.md)
  </sub>
