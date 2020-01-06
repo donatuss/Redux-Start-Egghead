@@ -35,3 +35,4 @@ Tematy:
 * [32 Todos Aplikacja - Część 27 - Pobranie danych (cd..) delegowanie akcji po pobraniu danych](https://github.com/donatuss/Redux-Start-Egghead/blob/master/32-todoapps-dispach-with-fetch-data/README.md)
 * [33 Todos Aplikacja - Część 28 - Opakowanie metody dispatch obiektu store - obsługa promises](https://github.com/donatuss/Redux-Start-Egghead/blob/master/33-todoapps-wrapping-dispatch-recognize-promise/README.md)
 * [34 Todos Aplikacja - Część 29 - Middleware Chain - opakowanie dispatch](https://github.com/donatuss/Redux-Start-Egghead/blob/master/34-todoapps-middleware-chain/README.md)
+* [35 Todos Aplikacja - Część 30 - Redux ApplyMiddleware - zmiana własnej implementacji na Radux](https://github.com/donatuss/Redux-Start-Egghead/blob/master/35-todoapps-redux-middleware/README.md)
