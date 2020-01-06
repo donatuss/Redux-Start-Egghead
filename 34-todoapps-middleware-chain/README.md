@@ -1,4 +1,4 @@
-## 33 Todos Aplikacja - Część 28 - Opakowanie metody dispatch obiektu store - obsługa promises
+## 34 Todos Aplikacja - Część 29 - Middleware Chain - opakowanie dispatch
 <sub>[<< Cofnij](https://github.com/donatuss/Redux-Start-Egghead/blob/master/README.md)</sub><br/>
 
 Zastąpimy zapisy funkcji opakowującej i zmieniając zachowanie standardowej metody dispatch redux store. Ale wcześniej trochę prostych przykładów:

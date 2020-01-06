@@ -34,4 +34,4 @@ Tematy:
 * [31 Todos Aplikacja - Część 26 - Pobranie danych (cd..) na poziomie komponentu w zależności od ustawionego routingu](https://github.com/donatuss/Redux-Start-Egghead/blob/master/31-todoapps-fetch-data-on-route-change/README.md)
 * [32 Todos Aplikacja - Część 27 - Pobranie danych (cd..) delegowanie akcji po pobraniu danych](https://github.com/donatuss/Redux-Start-Egghead/blob/master/32-todoapps-dispach-with-fetch-data/README.md)
 * [33 Todos Aplikacja - Część 28 - Opakowanie metody dispatch obiektu store - obsługa promises](https://github.com/donatuss/Redux-Start-Egghead/blob/master/33-todoapps-wrapping-dispatch-recognize-promise/README.md)
-* [34 Todos Aplikacja - Część 30 - Middleware Chain - opakowanie dispatch](https://github.com/donatuss/Redux-Start-Egghead/blob/master/34-todoapps-middleware-chain/README.md)
+* [34 Todos Aplikacja - Część 29 - Middleware Chain - opakowanie dispatch](https://github.com/donatuss/Redux-Start-Egghead/blob/master/34-todoapps-middleware-chain/README.md)
