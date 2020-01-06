@@ -147,5 +147,5 @@ export default configureStore
 <br/>
  
  <sub>[<< Poprzedni](https://github.com/donatuss/Redux-Start-Egghead/blob/master/32-todoapps-dispach-with-fetch-data/README.md)
-   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/34-.../README.md)
+   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/34-todoapps-middleware-chain/README.md)
  </sub>
