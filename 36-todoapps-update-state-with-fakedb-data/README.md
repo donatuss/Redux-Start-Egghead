@@ -181,5 +181,5 @@ export default todos;
 <br/>
  
  <sub>[<< Poprzedni](https://github.com/donatuss/Redux-Start-Egghead/blob/master/35-todoapps-redux-middleware/README.md)
-   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/37-.../README.md)
+   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/37-todoapps-refactoring-reducers/README.md)
  </sub>
