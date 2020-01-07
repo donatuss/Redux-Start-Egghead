@@ -133,6 +133,6 @@ State wygląda teraz
 ```
 <br/>
  
- <sub>[<< Poprzedni](https://github.com/donatuss/Redux-Start-Egghead/blob/master/35-todoapps-redux-middleware/README.md)
-   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/36-todoapps-update-state-with-fakedb-data/README.md)
+ <sub>[<< Poprzedni](https://github.com/donatuss/Redux-Start-Egghead/blob/master/36-todoapps-update-state-with-fakedb-data/README.md)
+   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/38-todoapps-loading-indicators/README.md)
  </sub>
