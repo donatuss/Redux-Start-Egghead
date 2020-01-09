@@ -39,3 +39,4 @@ Tematy:
 * [36 Todos Aplikacja - Część 31 - Aktualizacja state danymi z symulowanej bazy danych. Zmiana konstrukcji state](https://github.com/donatuss/Redux-Start-Egghead/blob/master/36-todoapps-update-state-with-fakedb-data/README.md)
 * [37 Todos Aplikacja - Część 32 - Refactoring reducers](https://github.com/donatuss/Redux-Start-Egghead/blob/master/37-todoapps-refactoring-reducers/README.md)
 * [38 Todos Aplikacja - Część 33 - Wyświetlenie informacji ładowania danych](https://github.com/donatuss/Redux-Start-Egghead/blob/master/38-todoapps-loading-indicators/README.md)
+* [39 Todos Aplikacja - Część 34 - Wywoływanie sekwencji akcji wykorzystując funkcje thunk](https://github.com/donatuss/Redux-Start-Egghead/blob/master/39-todoapps-dispach-action-with-thunks/README.md)
