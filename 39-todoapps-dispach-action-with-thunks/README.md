@@ -122,8 +122,8 @@ f({status: 200})(dispatch); //zwrot {status: 300}
 Poniższa struktura prezentuje tzw thunk. Thunk to funkcja zwracana z innej funkcji. 
 W tym przypadku właśnie twórca akcji fetchTodos zamiast plain js object zwrócił mi 
 thunk czyli funkcję - którą określiłem nazwą dispatch (można dowolnie).
-Ponieważ kata struktrua  akcji nie jest dopuszczalna - w middleware store trzeba będzie 
-rozszerzyć obsługą standardowego dispatch reduxowego o thunk-i. 
+Ponieważ tata struktura akcji nie jest dopuszczalna (tylko plain js object) 
+- w middleware store trzeba będzie rozszerzyć obsługą standardowego dispatch reduxowego o thunk-i. 
 Jest:
 */
 export const fetchTodos = (filter) => dispatch => {
