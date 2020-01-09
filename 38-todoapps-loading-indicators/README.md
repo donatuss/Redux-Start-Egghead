@@ -172,5 +172,5 @@ export const getIsFetching = (state, filter) => fromList.getIsFetching(state.lis
 <br/>
  
  <sub>[<< Poprzedni](https://github.com/donatuss/Redux-Start-Egghead/blob/master/37-todoapps-refactoring-reducers/README.md)
-   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/39-.../README.md)
+   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/39-todoapps-dispach-action-with-thunks/README.md)
  </sub>
