@@ -56,8 +56,8 @@ const addPromiseSupportToDispatch = (store) => {
         
         /*
         Jeżeli Promise to mam funkcje której argumentem jest akcja która przecież jest Promisem
-        ale zwrotem jest wykonanie oryginalnego rawDispatch po pozytywnym wykonaniu Promise (na tym czymś co ten promise zwróci 
-        patrz przykład js poniżej)
+        ale zwrotem jest wykonanie oryginalnego rawDispatch po pozytywnym wykonaniu Promise 
+        (na tym czymś co ten promise zwróci  patrz przykład js poniżej)
         */
         if(typeof action.then === 'function'){
             return action.then(rawDispatch)
@@ -144,16 +144,19 @@ Dodajemy obsługa thunks w middleware
 //store/configureStore.js
 
 /*
-Kluczem do zrozumienia tej konstrukcji jet to że pod next jest ukryty oryginalna funkcja dipach (store.dipatch)
-I teraz w przypadku gdy twórca akcji jest zwykła funkcja zwracająca plain js object to poniższa funkcja 
-zwróci na funkcję  przyjmując (action) => next(action) czyli nic innego jak oryginalna  store.dipatch (next=store.dipatch)
+Kluczem do zrozumienia tej konstrukcji jet to że pod next jest ukryta oryginalna 
+funkcja dipach (store.dipatch). W przypadku gdy twórcą akcji jest zwykła funkcja 
+zwracająca plain js object to poniższa funkcja zwróci na funkcję przyjmującą 
+(action) => next(action) czyli nic innego jak oryginalną store.dipatch (next=store.dipatch)
 
-W przypadku gdy twórca akcji zwraca nam funkcje (czyli rzeczywistego thunk-a) to struktura zwróci nam funkcję której wynikiem 
-będą działania oryginalnego dispatch zgodnie z jej definicją. 
+W przypadku gdy twórca akcji zwraca nam funkcje (czyli rzeczywistego thunk-a) to struktura 
+zwróci nam funkcję, której wynikiem będą działania oryginalnego dispatch zgodnie z jej definicją. 
 
 W naszym przypadku fetchTodos będzie to funkcja która dokona 
-- w pierwszej kolejności oryginalnego dispach na akcji requestTodos(filter) = {type: 'REQUEST_TODOS', filter}
-- a w drugiej kolejności oryginalnego dispach na akcji receiveTodos(filter, response) = {type: 'RECEIVE_TODOS', filter, response}   
+- w pierwszej kolejności oryginalnego dispach na akcji 
+  requestTodos(filter) = {type: 'REQUEST_TODOS', filter}
+- a w drugiej kolejności oryginalnego dispach na akcji 
+  receiveTodos(filter, response) = {type: 'RECEIVE_TODOS', filter, response}   
    
 */
 const thunk = (store) => next => action => {
