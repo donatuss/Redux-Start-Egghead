@@ -1,4 +1,4 @@
-## 38 Todos Aplikacja - Część 33 - Wyświetlenie informacji ładowania danych
+## Część 34 - Wywoływanie sekwencji akcji wykorzystując funkcje thunk
 <sub>[<< Cofnij](https://github.com/donatuss/Redux-Start-Egghead/blob/master/README.md)</sub><br/>
 
 Z poziomu komponentu ``VisibleTodoList`` w obecnej chwili wywołujemy 2 akcje (dokładniej 2 funkcję tworzącą akcję)
