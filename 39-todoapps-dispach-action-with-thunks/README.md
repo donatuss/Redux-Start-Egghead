@@ -179,5 +179,5 @@ const configureStore = () => {
 <br/>
  
  <sub>[<< Poprzedni](https://github.com/donatuss/Redux-Start-Egghead/blob/master/38-todoapps-loading-indicators/README.md)
-   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/40-.../README.md)
+   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/40-todoapps-avoid-race-with-thunks/README.md)
  </sub>
