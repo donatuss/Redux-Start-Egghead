@@ -19,9 +19,10 @@ export const fetchTodos = (filter) => dispatch => {
 */
 
 /* 
-getIsFetching - zdefiniowana w reduktorze createList.js informuje nas czy jesteśmy w trybie pobierania danych do todos
-w zależności od filtra (all, active, completed). Należy też zadbac aby dostarczyć do getIsFetching aktualny state aplikacji
-- czyli rozbudowujemy nasz thunk o dodatkową funkcję getState którą dostarczą w middleware
+getIsFetching - zdefiniowana w reduktorze createList.js informuje nas czy jesteśmy w trybie 
+pobierania danych do todos w zależności od filtra (all, active, completed). Należy też zadbać, 
+aby dostarczyć do getIsFetching aktualny state aplikacji- czyli rozbudowujemy nasz thunk 
+o dodatkową funkcję getState którą dostarczą w middleware
 */
 export const fetchTodos = (filter) => (dispatch, getState) =>   {
     if (getIsFetching(getState(), filter)) {
