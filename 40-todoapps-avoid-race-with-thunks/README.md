@@ -107,5 +107,5 @@ export const fetchTodos = (filter) => (dispatch, getState) =>   {
 <br/>
  
  <sub>[<< Poprzedni](https://github.com/donatuss/Redux-Start-Egghead/blob/master/39-todoapps-dispach-action-with-thunks/README.md)
-   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/41-.../README.md)
+   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/41-todoapps-error-messages/README.md)
  </sub>
