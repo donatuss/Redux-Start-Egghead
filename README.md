@@ -41,4 +41,4 @@ Tematy:
 * [38 Todos Aplikacja - Część 33 - Wyświetlenie informacji ładowania danych](https://github.com/donatuss/Redux-Start-Egghead/blob/master/38-todoapps-loading-indicators/README.md)
 * [39 Todos Aplikacja - Część 34 - Wywoływanie sekwencji akcji wykorzystując funkcje thunk](https://github.com/donatuss/Redux-Start-Egghead/blob/master/39-todoapps-dispach-action-with-thunks/README.md)
 * [40 Todos Aplikacja - Część 35 - Uniknięcie wyścigu generowania akcji w thunk](https://github.com/donatuss/Redux-Start-Egghead/blob/master/40-todoapps-avoid-race-with-thunks/README.md)
-* [40 Todos Aplikacja - Część 36 - Przechwytywanie błędów aplikacji](https://github.com/donatuss/Redux-Start-Egghead/blob/master/41-todoapps-error-messages/README.md)
+* [41 Todos Aplikacja - Część 36 - Przechwytywanie błędów aplikacji](https://github.com/donatuss/Redux-Start-Egghead/blob/master/41-todoapps-error-messages/README.md)

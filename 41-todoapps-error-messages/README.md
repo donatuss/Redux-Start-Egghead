@@ -1,4 +1,4 @@
-## Część Część 36 - Przechwytywanie błędów aplikacji
+## Część 36 - Przechwytywanie błędów aplikacji
 <sub>[<< Cofnij](https://github.com/donatuss/Redux-Start-Egghead/blob/master/README.md)</sub><br/>
 
 Prześledzimy proces przechwytywania błędów aplikacji na przykładzie błędu wyrzuconego z api z poziomu backend-u i obsługi
