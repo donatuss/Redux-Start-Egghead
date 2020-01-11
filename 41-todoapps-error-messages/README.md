@@ -200,5 +200,5 @@ export default withRouter(connect(mapStateToProps, actions)(VisibleTodoList));
 <br/>
  
  <sub>[<< Poprzedni](https://github.com/donatuss/Redux-Start-Egghead/blob/master/40-todoapps-avoid-race-with-thunks/README.md)
-   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/42-.../README.md)
+   | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/42-todoapps-create-data-addtodo/README.md)
  </sub>
